@@ -34,9 +34,6 @@ persist.vendor.camera.multicam=TRUE
 # Charger
 persist.chg.max_volt_mv=9000
 
-# Disable-Blur
-persist.sys.sf.disable_blurs=1
-
 # Display
 ro.surface_flinger.has_HDR_display=true
 ro.surface_flinger.has_wide_color_display=true

@@ -14,9 +14,9 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_grus.mk
+    $(LOCAL_DIR)/derp_grus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_grus-user \
-    lineage_grus-userdebug \
-    lineage_grus-eng
+    derp_grus-user \
+    derp_grus-userdebug \
+    derp_grus-eng
